@@ -71,7 +71,7 @@ The **Transport Layer** ensures **reliable or efficient delivery** of data betwe
 
 ---
 
-## **7. Application Layer**
+## **5. Application Layer**
 The **Application Layer** is the closest to the end user and provides **interfaces for network services**. It interacts with software applications to implement communication.
 
 - **Key Functions:**
@@ -99,3 +99,4 @@ The **Application Layer** is the closest to the end user and provides **interfac
 
 > 💡 **Remember:**  
 > OSI layers work together—each layer focuses on specific tasks, but they operate in combination to ensure smooth and reliable communication across networks.
+
